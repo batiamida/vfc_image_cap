@@ -1,0 +1,7 @@
+.env
+/diploma_uni_env/
+/processed_data/
+/notebooks/Russian-military-annotated-4/
+*.xml
+*.iml
+*.ipynb_checkpoints

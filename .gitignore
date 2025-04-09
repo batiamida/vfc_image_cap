@@ -5,3 +5,7 @@
 *.xml
 *.iml
 *.ipynb_checkpoints
+*.json
+*.bat
+*.log
+*.csv

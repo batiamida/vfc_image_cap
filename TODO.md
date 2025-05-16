@@ -9,4 +9,4 @@
 5. Generate some annotations with base-model and our pipeline
 6. Evaluation
    - Compare base-model and pipeline which one has less hallucinations
-   - Compare differencec in captions generation time
+   - Compare difference in captions generation
